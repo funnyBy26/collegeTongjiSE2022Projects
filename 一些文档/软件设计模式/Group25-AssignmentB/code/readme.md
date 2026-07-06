@@ -1,0 +1,2 @@
+# Illustration
+    Here is the code before and after the refactoring of our project, each folder contains the code after the refactoring of the corresponding pattern, and another folder named 'before' where the original code is stored
