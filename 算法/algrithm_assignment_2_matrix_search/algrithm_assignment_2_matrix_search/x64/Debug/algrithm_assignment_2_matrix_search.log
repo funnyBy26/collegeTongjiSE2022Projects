@@ -1,0 +1,4 @@
+﻿  2261654_付宝莹_assignment2.cpp
+D:\repos\algrithm_assignment_2_matrix_search\algrithm_assignment_2_matrix_search\2261654_付宝莹_assignment2.cpp(38,29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\repos\algrithm_assignment_2_matrix_search\algrithm_assignment_2_matrix_search\2261654_付宝莹_assignment2.cpp(39,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  algrithm_assignment_2_matrix_search.vcxproj -> D:\repos\algrithm_assignment_2_matrix_search\x64\Debug\algrithm_assignment_2_matrix_search.exe

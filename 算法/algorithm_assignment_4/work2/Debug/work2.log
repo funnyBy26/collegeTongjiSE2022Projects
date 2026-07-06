@@ -1,0 +1,5 @@
+﻿  work2_maxScorePath.cpp
+D:\repos\algorithm_assignment_4\algorithm_assignment_4\work2_maxScorePath.cpp(12,21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\repos\algorithm_assignment_4\algorithm_assignment_4\work2_maxScorePath.cpp(13,23): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\repos\algorithm_assignment_4\algorithm_assignment_4\work2_maxScorePath.cpp(14,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  work2.vcxproj -> D:\repos\algorithm_assignment_4\Debug\work2.exe

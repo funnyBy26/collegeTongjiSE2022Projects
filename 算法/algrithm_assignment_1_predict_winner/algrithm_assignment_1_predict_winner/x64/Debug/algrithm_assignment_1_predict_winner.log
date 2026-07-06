@@ -1,0 +1,3 @@
+﻿  hw1_2251654.cpp
+D:\repos\algrithm_assignment_1_predict_winner\algrithm_assignment_1_predict_winner\hw1_2251654.cpp(55,74): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  algrithm_assignment_1_predict_winner.vcxproj -> D:\repos\algrithm_assignment_1_predict_winner\x64\Debug\algrithm_assignment_1_predict_winner.exe
